@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Data Profiling Sn - Tells you **EVERYTHING** about your data.
-Tells you **EVERYTHING** about your data.
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Data Profiling Sn - Tells you **EVERYTHING** about your data.![Image image_filename](code.png)
 **Data profiling** is crucial for comprehending the structure and quality of a dataset, helping analysts identify anomalies and inconsistencies that may affect analysis outcomes. By systematically examining variables, data types, and distributions, data profiling lays the groundwork for effective data cleaning, preprocessing, and modeling, ensuring accurate and reliable insights are derived. 
 
 **Descriptive statistics** serve as a fundamental tool for data scientists to comprehend the characteristics of their datasets, enabling them to uncover patterns and trends. By summarizing key features such as central tendency and variability, descriptive statistics offer concise insights into the distribution of data, facilitating informed decision-making and hypothesis testing. Ultimately, their utilization empowers data scientists to extract meaningful interpretations and communicate findings effectively to stakeholders, driving informed actions and solutions.
@@ -44,9 +37,7 @@ These statistics offer insights into the **distribution, variability, and charac
 
 This list covers the essential statistics used for analyzing the distribution and spread of variables in a dataset.
 
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Data Profiling Sn** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -61,6 +52,9 @@ To get started with the **Data Profiling Sn** solution repository, follow these 
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -70,13 +64,11 @@ To get started with the **Data Profiling Sn** solution repository, follow these 
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](correlation.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](data_profiling.png)  <br>![additional_image](data_profiling_sn.png)  <br>![additional_image](descriptive statistics.png)  <br>![additional_image](descriptive_statistics.png)  <br>![additional_image](variable_analysis.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
