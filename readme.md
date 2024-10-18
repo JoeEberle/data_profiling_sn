@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Data Profiling Sn 
-    ## Tells you **EVERYTHING** about your data.
+    
+# Data Profiling Sn 
+
+## Tells you **EVERYTHING** about your data.
+
     ![Image image_filename](code.png)
 **Data profiling** is crucial for comprehending the structure and quality of a dataset, helping analysts identify anomalies and inconsistencies that may affect analysis outcomes. By systematically examining variables, data types, and distributions, data profiling lays the groundwork for effective data cleaning, preprocessing, and modeling, ensuring accurate and reliable insights are derived. 
 
@@ -60,9 +63,9 @@ To get started with the **Data Profiling Sn** solution repository, follow these 
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Data Profiling Sn** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -72,6 +75,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](correlation.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](data_profiling.png)  <br>![additional_image](data_profiling_sn.png)  <br>![additional_image](descriptive statistics.png)  <br>![additional_image](descriptive_statistics.png)  <br>![additional_image](variable_analysis.png)  <br>
