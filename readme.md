@@ -105,7 +105,7 @@ These features are designed to provide everything you need for **Data Profiling 
  ![additional_image](correlation.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](data_profiling.png)  <br>![additional_image](data_profiling_sn.png)  <br>![additional_image](descriptive statistics.png)  <br>![additional_image](descriptive_statistics.png)  <br>![additional_image](variable_analysis.png)  <br>
     
 
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
+## Github https://github.com/SynNAC01/ - Email  michael.mcnees@syndicusinc.com 
     
 ![Developer](developer.png)
 
